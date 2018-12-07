@@ -20,7 +20,11 @@ The architecture used to build this model was ResNet-50, which is a model pre-tr
 
 # Model Results and Production
 
-The accuracy achieved was 88.9%. I build a web application for the model. You can try it out yourself here: https://facial-exp-recog.herokuapp.com/. Upload a picture a facial expression and it will tell you what it thinks it is, along with how confident it is with that prediction.
+The accuracy achieved was 88.9%. I build a web application for the model. You can try it out yourself here: 
+
+https://facial-exp-recog.herokuapp.com/
+
+Upload a picture a facial expression and it will tell you what it thinks it is, along with how confident it is with that prediction.
 
 One important thing to note about the dataset used is that it was created using young Caucasian men and women. If you try to make a prediction using pictures of older people or people with other skin tones, your results may not be as accurate.
 
