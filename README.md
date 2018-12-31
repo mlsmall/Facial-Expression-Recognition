@@ -1,4 +1,4 @@
-# Facial-Expression-Recognition
+# Facial Expression-Recognizer
 
 This notebook contains the code for a facial expression detection algorithm. The data used was acquired from the The [Karolinska Directed Emotional Faces (KDEF)](www.emotionlab.se/kdef/).
 
