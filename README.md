@@ -13,7 +13,9 @@ The dataset contains 70 individuals (35 male and 35 female), each displaying 7 d
     neutral
     sad
     surprised
-
+    
+   ![alt text](https://github.com/mlsmall/Facial-Expression-Recognition/blob/master/image.jpg)
+   
 More information on how the data was gathered can be found [here](http://kdef.se/home/aboutKDEF.html).
 
 The architecture used to build this model was ResNet-50, which is a model pre-trained on ImageNet. The initial weights are already trained, so we only have to train the weights in the final layer.
