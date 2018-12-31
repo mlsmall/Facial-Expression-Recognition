@@ -14,7 +14,7 @@ The dataset contains 70 individuals (35 male and 35 female), each displaying 7 d
     sad
     surprised
     
-   ![alt text](https://github.com/mlsmall/Facial-Expression-Recognition/blob/master/image.jpg = 250x)
+   ![](https://github.com/mlsmall/Facial-Expression-Recognition/blob/master/image.jpg =250x)
    
 More information on how the data was gathered can be found [here](http://kdef.se/home/aboutKDEF.html).
 
