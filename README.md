@@ -1,6 +1,6 @@
 # Facial Expressions Recognizer
 
-This notebook contains the code for a facial expression detection algorithm. The data used was acquired from the The [Karolinska Directed Emotional Faces (KDEF)](www.emotionlab.se/kdef/).
+This notebook contains the code for a facial expression detection algorithm. The data used was acquired from the The [Karolinska Directed Emotional Faces (KDEF)](http://kdef.se/home/aboutKDEF.html).
 
 KDEF is a dataset of 4900 pictures of human facial expressions of emotion. It was originally developed to be used for psychological and medical research purposes.
 
