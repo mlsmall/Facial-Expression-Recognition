@@ -26,5 +26,5 @@ The accuracy achieved was 88.9%. I build a web application for the model. You ca
 
 https://facial-exp-recog.herokuapp.com/
 
-Upload a picture a facial expression and it will tell you what it thinks it is, along with how confident it is with that prediction. The photo uploaded should be a single face and not a group with other poeple. One important thing to note about the dataset used is that it was created using young Caucasian men and women. If you use this app to make a prediction using pictures of older people or people with other skin tones, your results may not be as accurate.
+Upload a picture a facial expression and it will tell you what it thinks it is, along with how confident it is with that prediction. The photo uploaded should be a single face and not a group with other people. One important thing to note about the dataset used is that it was created using young Caucasian men and women. If you use this app to make a prediction using pictures of older people or people with other skin tones, your results may not be as accurate.
 
