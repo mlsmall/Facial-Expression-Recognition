@@ -22,7 +22,7 @@ The architecture used to build this model was ResNet-50, which is a model pre-tr
 
 # Model Results and Production
 
-The accuracy achieved was 88.9%. I build a web application for the model. You can try it out yourself here: 
+The accuracy achieved was 88.9%. I built a web application for the model using a Docker container on Heroku. You can try it out yourself here: 
 
 https://facial-exp-recog.herokuapp.com/
 
